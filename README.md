@@ -1,2 +1,0 @@
-# py
-chatbot grepolis
